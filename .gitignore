@@ -23,3 +23,7 @@ Ensemble/predictions_*.csv
 
 # macOS
 .DS_Store
+
+# Cho phép data_raw (dữ liệu đề bài)
+!data_raw/
+!data_raw/**
